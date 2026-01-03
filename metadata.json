@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PressHouseWebsite",
+  "description": "منصة يمنية رائدة لرصد الحريات الإعلامية، التحقق من الأخبار، ودعم الصحفيين في بيئات النزاع.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
